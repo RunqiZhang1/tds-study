@@ -1,0 +1,16 @@
+第三方Panda
+Numpy 是Matrix的，如果都是一种类型值——可以转化成pandas  数值计算，高维数组，矩阵运算 
+       人脸识别，计算机视觉  
+       提供内置函数， math.exp 是Python内的  如果用np.exp 直接计算，会快得多   
+Numpy和Pandas 是数据科学的两个重要模块
+import Numpy as np
+import Pandas as pd
+scipy : scientific numpy
+        损失函数，
+        牛顿迭代算法
+        信号处理
+        稀疏矩阵，很多都是0，只有一部分是1
+        聚类算法，图像算法
+Pandas:
+      适合做复杂模型
+      
